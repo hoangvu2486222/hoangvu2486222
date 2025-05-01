@@ -7,8 +7,15 @@
 - 📫 How to reach me: <a mailto="hoangvu2486222@gmail.com">**hoangvu2486222@gmail.com**</a><br>
 - 🚀 Phone number: <a href="christian.tomasino.dev@gmail.com">**0704 58 27 58**</a>
 
-- Projects:
+- Projects:<br>
   https://hublot-44b1e.web.app/
+  https://www.wink-hotels.com/
+  https://belmarinahoian.com/
+  https://serenebeachhoteldanang.com/
+  https://daphovina.com/
+  https://fleurdelys.vn/resort-spa-long-hai/
+  https://www.phuclonghospitality.com/
+  https://flosq.vn/
   
 
 
