@@ -8,13 +8,21 @@
 - 🚀 Phone number: <a href="christian.tomasino.dev@gmail.com">**0704 58 27 58**</a>
 
 - Projects:<br>
+  (3D Product)<br>
   https://iwc-schaffhausen-1756c.web.app/<br>
+  
+  (Hospitality)<br>
   https://www.wink-hotels.com/<br>
   https://belmarinahoian.com/<br>
   https://serenebeachhoteldanang.com/<br>
-  https://daphovina.com/<br>
   https://fleurdelys.vn/resort-spa-long-hai/<br>
   https://www.phuclonghospitality.com/<br>
+  
+  (Coporate)<br>
+  https://daphovina.com/<br>
+  https://www.eui.money/<br>
+  
+  (Agency)
   https://flosq.vn/
   
 
