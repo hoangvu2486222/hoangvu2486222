@@ -8,7 +8,7 @@
 - 🚀 Phone number: <a href="christian.tomasino.dev@gmail.com">**0704 58 27 58**</a>
 - ☄ Portfolio: https://hoangvu-portfolio.framer.website/
 
-- Projects:<br>
+- Projects Highlight:<br>
   (3D Product)<br>
   https://iwc-schaffhausen-1756c.web.app/<br>
   
